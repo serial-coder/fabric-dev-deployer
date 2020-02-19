@@ -11,6 +11,10 @@ Here are some modifications:
 - etc.
 
 Follow me at:<br/>
-Website: [www.serial-coder.com](https://www.serial-coder.com)<br/>
-Blog: [medium.com/@serial_coder](https://medium.com/@serial_coder)<br/>
-GitHub: [github.com/serial-coder](https://github.com/serial-coder)<br/>
+- Website: [www.serial-coder.com](https://www.serial-coder.com)<br/>
+- Medium: [medium.com/@serial_coder](https://medium.com/@serial_coder)<br/>
+- GitHub: [github.com/serial-coder](https://github.com/serial-coder)<br/>
+- LinkedIn: [www.linkedin.com/in/phuwanai-thummavet](https://www.linkedin.com/in/phuwanai-thummavet/)<br/>
+- Facebook: [fb.com/br1gh7n4ry](https://www.facebook.com/br1gh7n4ry)<br/>
+- Twitter: [@br1gh7n4ry](https://twitter.com/br1gh7n4ry)<br/>
+- E-mail: [mr[.]thummavet[at]gmail[.]com](mailto:mr.thummavet@gmail.com)<br/>
